@@ -1,1 +1,1 @@
-I'm a miniscule one-man Csuite: CMO+CFO+CEO+CTO+CAO+COO.
+I'm a miniscule Csuite: CFO+CEO+CTO+COO.
